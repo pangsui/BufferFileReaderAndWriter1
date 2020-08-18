@@ -6,7 +6,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * Created by dev on 8/12/2015.
+ * Created by pangsui
  */
 public class Location {
     private final int locationID;
